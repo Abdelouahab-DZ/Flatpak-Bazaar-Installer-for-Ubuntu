@@ -27,4 +27,6 @@ cd Flatpak-Bazaar-Installer-for-Ubuntu
 
 ### 2. Make the Script Executable
 ```bash
-chmod +x install.shg
+chmod +x install.sh
+###
+sudo ./install.sh
