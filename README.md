@@ -22,6 +22,7 @@ A clean, reliable shell script to automate the installation of **Flatpak**, conf
 
 ### 1. Download or Clone
 git clone https://github.com/Abdelouahab-DZ/Flatpak-Bazaar-Installer-for-Ubuntu
+###
 cd Flatpak-Bazaar-Installer-for-Ubuntu
 
 ### 2. Make the Script Executable
